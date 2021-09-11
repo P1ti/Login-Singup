@@ -1,0 +1,6 @@
+#input {
+	-fx-border-style: hidden hidden solid hidden;
+	-fx-border-color: #2f3238;
+	-fx-border-width: 2;
+	-fx-text-fill: white;
+}
